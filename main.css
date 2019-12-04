@@ -3,6 +3,10 @@
   src: url("http://aspx.sc.chinaz.com/query.aspx?keyword=Titillium");
 }
 
+.bg-music {
+  display: none;
+}
+
 body {
   background-color: black;
   width: 95%;
